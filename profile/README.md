@@ -5,7 +5,7 @@ In the near future you'll find an overview of the infrastructure here.
 ## Repository Naming Scheme
 If you're a developer and want to create a repository here, please use the following repository naming scheme:
 
-<projectprefix>-<projectname>-<type>
+`<projectprefix>-<projectname>-<type>`
 
 | prefix in use  | description                                                                                     |
 |----------------|-------------------------------------------------------------------------------------------------|
