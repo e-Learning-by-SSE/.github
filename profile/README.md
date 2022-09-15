@@ -10,7 +10,7 @@ If you're a developer and want to create a repository here, please use the follo
 | prefix in use  | description                                                                                     |
 |----------------|-------------------------------------------------------------------------------------------------|
 | infrastructure | Cross Cutting Concerns like authentication and infrastructure service like application gateways |
-|                |                                                                                                 |
+| nm             | "Nano-Module": Projects for micro learning                                                      |
 |                |                                                                                                 |
 
 | types   | description |
