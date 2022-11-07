@@ -16,8 +16,9 @@ If you're a developer and want to create a repository here, please use the follo
 | types   | description |
 |---------|-------------|
 | lib     |             |
-| service |             |
-| client  |             |
+| service | Application which provides an API for clients (backends)  |
+| client  | Application which consumes another API (frontends)  |
+| app     | Monolithic app which provides everything it needs (frontend, backend lib) |
 | common  |             | 
 
 <!--
