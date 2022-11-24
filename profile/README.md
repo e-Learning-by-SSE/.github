@@ -1,10 +1,22 @@
 ## Hi there 👋
 
-In the near future you'll find an overview of the infrastructure here. 
+This is the repository for e-learning projects by [SSE](sse.uni-hildesheim.de/). 
+
+# Developer Guide
+If you develope a service in our ecosystem please read the following sub-sections carefully. 
+
+## Infrastructure
+We provide an infrastructure for cross-cutting concerns which includes:
+- Runtime service registry
+- Application gateway
+- OIDC Authentication
+
+Any service which provides an API must at least register themselfes in the registry. You can find a developer guide [here](https://github.com/e-Learning-by-SSE/infrastructure-common/blob/master/usage.md)
 
 ## Repository Naming Scheme
-If you're a developer and want to create a repository here, please use the following repository naming scheme:
+This group use a repository naming scheme to make it easier to find stuff. Please comply with this.
 
+Each repository have three sections spereated with hyphen:
 `<projectprefix>-<projectname>-<type>`
 
 | prefix in use  | description                                                                                     |
