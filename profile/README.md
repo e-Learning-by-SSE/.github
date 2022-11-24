@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the repository for e-learning projects by [SSE](sse.uni-hildesheim.de/). 
+This is the repository for e-learning projects by [SSE](https://sse.uni-hildesheim.de/). 
 
 # Developer Guide
 If you develope a service in our ecosystem please read the following sub-sections carefully. 
