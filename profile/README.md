@@ -23,7 +23,7 @@ Each repository have three sections spereated with hyphen:
 |----------------|-------------------------------------------------------------------------------------------------|
 | infrastructure | Cross Cutting Concerns like authentication and infrastructure service like application gateways |
 | nm             | "Nano-Module": Projects for micro learning                                                      |
-|                |                                                                                                 |
+| exercise       | Projects for teaching and exercise submitter                                                    |
 
 | types   | description |
 |---------|-------------|
