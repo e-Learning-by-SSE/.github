@@ -19,11 +19,11 @@ This group use a repository naming scheme to make it easier to find stuff. Pleas
 Each repository have three sections spereated with hyphen:
 `<projectprefix>-<projectname>-<type>`
 
-| prefix in use  | description                                                                                     |
-|----------------|-------------------------------------------------------------------------------------------------|
-| infrastructure | Cross Cutting Concerns like authentication and infrastructure service like application gateways |
-| nm             | "Nano-Module": Projects for micro learning                                                      |
-| exercise       | Projects for teaching and exercise submitter                                                    |
+| prefix in use       | description                                                                                     |
+|---------------------|-------------------------------------------------------------------------------------------------|
+| infrastructure      | Cross Cutting Concerns like authentication and infrastructure service like application gateways |
+| nm                  | "Nano-Module": Projects for micro learning                                                      |
+| exercise-submission | Projects from teaching and exercise submitting (in java)                                        |
 
 | types   | description |
 |---------|-------------|
