@@ -24,6 +24,7 @@ Each repository have three sections spereated with hyphen:
 | infrastructure      | Cross Cutting Concerns like authentication and infrastructure service like application gateways |
 | nm                  | "Nano-Module": Projects for micro learning                                                      |
 | exercise-submission | Projects from teaching and exercise submitting (in java)                                        |
+| stu                 | Project around the Student-Management System (and old Q+ Projects)
 
 | types   | description |
 |---------|-------------|
