@@ -1,52 +1,50 @@
-## Hi there 👋
+## Developer Guide for E-Learning Projects by SSE
 
-This is the repository for e-learning projects by [SSE](https://sse.uni-hildesheim.de/). 
+Hello there 👋,
 
-# Developer Guide
-If you develope a service in our ecosystem please read the following sub-sections carefully. 
+Welcome to the repository for e-learning projects managed by [SSE](https://sse.uni-hildesheim.de/). If you're developing a service within our ecosystem, please read the following sections carefully.
 
-## Development Process
-We provide a documentation of various aspects of our development progress here:
-- [Commit Guideline](https://github.com/e-Learning-by-SSE/nm-self-learning/wiki/Commit-Guidelines)
-- Branching Guideline
-- [Project Board Description / Development Process](https://github.com/e-Learning-by-SSE/nm-self-learning/wiki/Project-Management)
+## Resources for SSE Developers
 
-## Infrastructure
-We provide an infrastructure for cross-cutting concerns which includes:
-- Runtime service registry
-- Application gateway
-- OIDC Authentication
+- [Contributing Guidelines](https://github.com/e-Learning-by-SSE/.github/blob/main/CONTRIBUTING.md) (e.g., how to create commits and branches)
 
-Any service which provides an API must at least register themselfes in the registry. You can find a developer guide [here](https://github.com/e-Learning-by-SSE/infrastructure-common/blob/master/usage.md)
+#### Internal Resources
+
+- [Administrative Board](https://github.com/orgs/e-Learning-by-SSE/projects/1)
+- [Board and Process Description](https://github.com/e-Learning-by-SSE/nm-concept/blob/main/doc/BOARD.md)
+- [People, Responsibilites and Mails](TODO)
+
+#### Important Repositories
+
+- [Selflearn Repository (Digital Campus)](https://github.com/e-Learning-by-SSE/nm-self-learning)
+- [nm-skill-lib Repository (Path Planner Library)](https://github.com/e-Learning-by-SSE/nm-skill-lib)
+- [nm-skill-service Repository (Service for SEARCH)](https://github.com/e-Learning-by-SSE/nm-skill-service)
 
 ## Repository Naming Scheme
-This group use a repository naming scheme to make it easier to find stuff. Please comply with this.
 
-Each repository have three sections spereated with hyphen:
-`<projectprefix>-<projectname>-<type>`
+To maintain consistency, we use a specific repository naming scheme. Each repository name consists of three sections separated by hyphens: `<project-prefix>-<project-name>-<type>`.
 
-| prefix in use       | description                                                                                     |
-|---------------------|-------------------------------------------------------------------------------------------------|
-| infrastructure      | Cross Cutting Concerns like authentication and infrastructure service like application gateways |
-| nm                  | "Nano-Module": Projects for micro learning                                                      |
-| exercise-submission | Projects from teaching and exercise submitting (in java)                                        |
-| stu                 | Project around the Student-Management System (and old Q+ Projects)
+|Prefixes in Use|Description|
+|---|---|
+|`infrastructure`|Cross-cutting concerns like authentication and infrastructure services like application gateways|
+|`nm`|"Nano-Module": Projects for micro-learning|
+|`exercise-submission`|Projects related to teaching and exercise submissions (in Java)|
+|`stu`|Projects around the Student Management System (and older Q+ Projects)|
 
-| types   | description |
-|---------|-------------|
-| lib     | Library to be used in other project                                       |
-| service | Application which provides an API for clients (backends)                  |
-| client  | Application which consumes another API (frontends)                        |
-| app     | Monolithic app which provides everything it needs (frontend, backend lib) |
-| common  |  | 
+|Types|Description|
+|---|---|
+|`lib`|Libraries to be used in other projects|
+|`service`|Applications that provide an API for clients (backends)|
+|`client`|Applications that consume another API (frontends)|
+|`app`|Monolithic apps that provide everything they need (frontend, backend, lib)|
+|`common`|Shared resources or utilities|
 
-<!--
+### Infrastructure
 
-**Here are some ideas to get you started:**
+We offer an infrastructure for cross-cutting concerns, which includes:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Runtime Service Registry
+- Application Gateway
+- OIDC Authentication
+
+Any service providing an API must at least register itself in the registry. For more details, refer to the [Developer Guide](https://github.com/e-Learning-by-SSE/infrastructure-common/blob/master/usage.md).
