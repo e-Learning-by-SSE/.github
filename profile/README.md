@@ -6,19 +6,20 @@ Welcome to the repository for e-learning projects managed by [SSE](https://sse.u
 
 ## Resources for SSE Developers
 
+- [Selflearn/Search Introduction Slides](https://github.com/e-Learning-by-SSE/nm-concept/blob/main/doc/introduction-slides.pdf)
 - [Contributing Guidelines](https://github.com/e-Learning-by-SSE/.github/blob/main/CONTRIBUTING.md) (e.g., how to create commits and branches)
 
 #### Internal Resources
 
 - [Administrative Board](https://github.com/orgs/e-Learning-by-SSE/projects/1)
 - [Board and Process Description](https://github.com/e-Learning-by-SSE/nm-concept/blob/main/doc/BOARD.md)
-- [People, Responsibilites and Mails](TODO)
+- [People, Responsibilites and Mails](https://github.com/e-Learning-by-SSE/nm-concept/blob/main/doc/PEOPLE.md)
 
 #### Important Repositories
 
-- [Selflearn Repository (Digital Campus)](https://github.com/e-Learning-by-SSE/nm-self-learning)
-- [nm-skill-lib Repository (Path Planner Library)](https://github.com/e-Learning-by-SSE/nm-skill-lib)
-- [nm-skill-service Repository (Service for SEARCH)](https://github.com/e-Learning-by-SSE/nm-skill-service)
+- [nm-self-learning (Digital Campus Selflearn)](https://github.com/e-Learning-by-SSE/nm-self-learning)
+- [nm-skill-lib (Path Planner Library)](https://github.com/e-Learning-by-SSE/nm-skill-lib)
+- [nm-skill-service (Service for SEARCH)](https://github.com/e-Learning-by-SSE/nm-skill-service)
 
 ## Repository Naming Scheme
 
