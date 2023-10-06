@@ -9,7 +9,7 @@ If you develope a service in our ecosystem please read the following sub-section
 We provide a documentation of various aspects of our development progress here:
 - [Commit Guideline](https://github.com/e-Learning-by-SSE/nm-self-learning/wiki/Commit-Guidelines)
 - Branching Guideline
-- [Project Board Description / Development Process] (https://github.com/e-Learning-by-SSE/nm-self-learning/wiki/Project-Management)
+- [Project Board Description / Development Process](https://github.com/e-Learning-by-SSE/nm-self-learning/wiki/Project-Management)
 
 ## Infrastructure
 We provide an infrastructure for cross-cutting concerns which includes:
