@@ -26,6 +26,7 @@
   - `test/` for test changes.
   
 - If related to an issue, include issue ID: `feat/123-short-title`.
+- Do not use special characters or Umlaute in branch-names. Keep an eye on that if you use githubs autoname function for branches. 
 
 ### Before Submitting a PR
 
