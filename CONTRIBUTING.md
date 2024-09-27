@@ -121,3 +121,5 @@ Variant 2. or 3. should preferred.
 4. Do not end the subject line with a period.
 5. Use the body to explain "what" and "why" vs. "how".
 6. Reference issues or pull requests liberally after the first line.
+
+**When using a monorepo with nx, the scope should be the sub-library you made changes to**
