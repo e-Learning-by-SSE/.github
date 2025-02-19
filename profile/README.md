@@ -11,8 +11,8 @@ Welcome to the repository for e-learning projects managed by [SSE](https://sse.u
 
 #### Internal Resources
 
-- [Administrative Board](https://github.com/orgs/e-Learning-by-SSE/projects/1)
-- [Board and Process Description](https://github.com/e-Learning-by-SSE/nm-concept/blob/main/doc/BOARD.md)
+- [Issue Board](https://github.com/orgs/e-Learning-by-SSE/projects/7) and [Pull Request Queue](https://github.com/orgs/e-Learning-by-SSE/projects/3) (currently selflearn only)
+  - In case you are a Board reser, please read the [Board and Process Description](https://github.com/e-Learning-by-SSE/nm-concept/blob/main/doc/BOARD.md)
 - [People, Responsibilites and Mails](https://github.com/e-Learning-by-SSE/nm-concept/blob/main/doc/PEOPLE.md)
 
 #### Important Repositories
